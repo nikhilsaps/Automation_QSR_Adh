@@ -1,7 +1,7 @@
 ####################################################################
 #This code  is very intricate and  confidential and legal property.#
-# Do not mess , annalyze  , and moddify without the permission     #
-# By: sinnikhy(Nikhil Singh)                                       #
+# Do not mess, annalyze, and moddify without the permission        #
+# By: sinnikhy (Nikhil Singh)                                      #
 ####################################################################
 import schedule
 import time
